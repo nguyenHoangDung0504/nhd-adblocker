@@ -1,0 +1,1 @@
+run: node .\generateRules\index.js
