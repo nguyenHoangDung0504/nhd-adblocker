@@ -46,6 +46,7 @@ const selectorsToRemove = `
     .ads-banner
     .ad_info
     #qxx
+    #html-ads
 `.trim().split('\n').map(s => s.trim()).filter(Boolean);
 
 // ==== Hàm xóa quảng cáo định kỳ ====
