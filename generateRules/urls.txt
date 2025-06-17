@@ -170,3 +170,4 @@
 *://creative.myavlive.*/*
 *://img.doppiocdn.com/*
 *://njavtv.com/pop
+*://coccoc.com/webhp/*
